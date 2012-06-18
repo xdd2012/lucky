@@ -1,0 +1,4 @@
+lucky
+=====
+
+lucky d
